@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="tuto1">Hold your smartphone parallel to an image and press Glif</string>
+    <string name="tuto2">Write your message</string>
+    <string name="tuto3">Share locally and with your friends</string>
+    <string name="tuto4">Scan the image</string>
+    <string name="baseline">Snap, Mark, Scan</string>
+    <string name="begin">Swipe to begin tutorial</string>
+    <string name="welcome">Hey ! Thanks for downloading Glif it Beta 1.0</string>
+    <string name="message">Tap to display keyboard</string>
+    <string name="local">Check where glifs are posted</string>
+    <string name="sign">Wanna try now?</string>
+    <string name="button">Yes!\n Let\'s go</string>
+    <string name="button_restart">No!\n Start again</string>
+    <string name="views"> View(s)</string>
+    <string name="following">Following</string>
+    <string name="followers">Follower(s)</string>
+    <string name="delete">Delete this glif?</string>
+    <string name="confirm_delete">Yes delete it</string>
+    <string name="confirmation_deleted">Glif deleted!</string>
+    <string name="cancel">Cancel</string>
+    <string name="mylist">List of your glif(s)!</string>
+    <string name="viewlist">List of the glif(s) you have seen!</string>
+    <string name="followinglist">List of your following!</string>
+    <string name="followerlist">List of your followers!</string>
+    <string name="report">Report this glif?</string>
+    <string name="confirm_report">Yes report it</string>
+    <string name="confirmation_report">Thank you for reporting</string>
+    <string name="logout">Log Out?</string>
+    <string name="confirm_logout">Yes log out</string>
+    <string name="follow">You are now following </string>
+    <string name="unfollow">You are now unfollowing </string>
+    <string name="search">Find someone... </string>
+    <string name="noresult">No user found</string>
+    <string name="result">Result for :  </string>
+    <string name="viewprofile">Check the profile</string> 
+    <string name="welcomelogin">Log In with your Glit It Account</string> 
+    <string name="email">E-mail</string> 
+    <string name="password">Password</string> 
+    <string name="signup">signup</string> 
+    <string name="login">login</string> 
+    <string name="username">Username</string> 
+    <string name="birthday">Birthday</string> 
+    <string name="subscribe">Subscribe</string>
+    <string name="aboutme">About you</string>
+    
+    <string name="wronglog">Your email and/or password is incorrect</string>
+    
+    <string name="locationoff">location is off</string>
+    <string name="locationon">location is on</string>
+    
+    <string name="refresh">Please pull to refresh!</string>
+    
+    <string name="noview">No one has seen this glif :(</string>
+    <string name="nolike">No one has liked this glif :(</string>
+    
+    <string name="comment">Write a comment...</string>
+    
+    <string name="dofollowing">You are now following </string>
+    <string name="dounfollowing">You are now unfollowing </string>
+    
+    <string name="today">today</string>
+    <string name="day">day</string>
+    <string name="days">days</string>
+
+    <string name="notifcommentonyourglif">commented your glif</string>
+    <string name="notifcommentonglifyoucommented">has also commented this glif</string>
+    <string name="notiflike">liked your glif</string>
+    <string name="notifleft">left you a glif</string>
+    <string name="notiffollow">is now following you</string>
+    <string name="notifnear">There is a new glif near by</string>
+    
+    <string name="location">Please activate location to use Glif it</string>
+    
+    <string name="nolocation">The Glif cannot be geo-located</string>
+    
+    <string name="trylocationoff">Pointless, you have disabled location service</string>
+    
+    <string name="bugrefresh">Please pull to refresh!</string>
+    
+    <string name="selection">Snap the pic holding your phone parallel to the image</string>
+    
+    <string name="noglifaround">Sorry there are no glif around!</string>
+    
+</resources>

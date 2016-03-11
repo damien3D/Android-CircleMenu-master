@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+	    android:id="@+id/commentspace"
+	    android:layout_width="wrap_content"
+	    android:layout_height="50dp"
+	    android:layout_alignParentBottom="true"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:padding="5dp"
+	    android:background="@drawable/border" >
+
+    	<EditText
+    	    android:id="@+id/mycomment"
+    	    android:layout_width="300dp"
+    	    android:layout_height="match_parent"
+    	    android:layout_alignParentBottom="true"
+    	    android:layout_alignParentLeft="true"
+    	    android:layout_marginLeft="5dp"
+    	    android:layout_toLeftOf="@+id/commentbutton"
+    	    android:background="@drawable/back"
+    	    android:ems="10"
+    	    android:hint="@string/comment"
+    	    android:padding="10dp"
+    	    android:textColorLink="@color/background_theme"
+    	    android:visibility="visible" />
+
+    	<TextView
+    	    android:id="@+id/commentbutton"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignParentRight="true"
+    	    android:layout_centerVertical="true"
+    	    android:padding="10dp"
+    	    android:text="Comment"
+    	    android:textAppearance="?android:attr/textAppearanceSmall"
+    	    android:textColor="@color/comment_text" />
+    
+    </RelativeLayout>
+
+</LinearLayout>
